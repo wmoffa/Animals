@@ -1,0 +1,74 @@
+
+
+
+#container {
+  height: auto;
+  width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+}
+  #Banner {
+    position: relative;
+    top: 0px;
+    height: 55px;
+    width: 910px;
+    background-color: darkblue;
+    color: white;
+    font-family: courier;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    padding: 35px;
+  }
+
+  #pixBox {
+    position: relative;
+    top: 10px;
+    height: auto;
+    width: 550px;
+    background-color: #efefef;
+    float: left;
+  }
+
+  .pixImage {
+    position: inherit;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    float: left;
+    display: inline;
+    margin-left: 10px;
+    background-color: #efefef;
+  }
+
+  #searchBox {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 75px;
+    width: 350px;
+    padding: 15px;
+    background-color: #efefef;
+    float: left;
+  }
+ #buttonBox {
+    margin-top: 10px;
+    margin-left: 20px;
+    left: 630px;
+    height: 75px;
+    width: 350px;
+    padding: 15px;
+    opacity: .5;
+    background-color: #efefef;
+    float: left;
+    border-color: black;
+    border-style: line;
+    border-width: 2px;
+  }
+
+  #buttons {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+  }
+  
